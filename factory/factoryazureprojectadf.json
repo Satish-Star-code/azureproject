@@ -1,0 +1,15 @@
+{
+	"name": "factoryazureprojectadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "493509a3-8e30-423d-aba0-a11c532e85ed",
+		"tenantId": "c7e7c8ed-8fd9-4772-81cb-84a010d0b4e1"
+	}
+}
